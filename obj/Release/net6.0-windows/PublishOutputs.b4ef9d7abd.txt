@@ -1,0 +1,5 @@
+C:\Users\roota\Desktop\doc\Development\csharpdevelopment\WinFormsApp1.exe
+C:\Users\roota\Desktop\doc\Development\csharpdevelopment\WinFormsApp1.dll
+C:\Users\roota\Desktop\doc\Development\csharpdevelopment\WinFormsApp1.deps.json
+C:\Users\roota\Desktop\doc\Development\csharpdevelopment\WinFormsApp1.runtimeconfig.json
+C:\Users\roota\Desktop\doc\Development\csharpdevelopment\WinFormsApp1.pdb
